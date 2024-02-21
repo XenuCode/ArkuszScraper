@@ -5,4 +5,4 @@
 A bo ja wiem
 
 ## Gdzie to pójdzie ?
-patrz release ->
+patrz releases ->
